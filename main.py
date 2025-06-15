@@ -1,6 +1,6 @@
 import streamlit as st
 from PIL import Image
-from streamlit_extras.mention import mention
+
 
 # Page config
 st.set_page_config(page_title="Faisal Sheriff | Portfolio", layout="wide")
